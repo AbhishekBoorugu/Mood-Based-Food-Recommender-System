@@ -31,4 +31,5 @@ It’s an average of an average.
 
 Output of the recommender system on jupyter notebook:
 
-![Moody Foodies Output](https://user-images.githubusercontent.com/52981642/125154999-a24ac180-e17a-11eb-88be-64fa5094254a.PNG)
+![Moody Foodies Output](https://user-images.githubusercontent.com/52981642/125155430-70872a00-e17d-11eb-9de5-90b7e94be69f.PNG)
+
